@@ -27,7 +27,7 @@
     "angular-animate": "^1.6.7",
     "angular-aria": "^1.6.7",
     "angular-material": "^1.1.5",
-    "archiver": "^0.21.0",
+    "archiver": "^3.0.0",
     "css-loader": "^0.28.7",
     "del": "^1.2.1",
     "express": "^4.13.3",
